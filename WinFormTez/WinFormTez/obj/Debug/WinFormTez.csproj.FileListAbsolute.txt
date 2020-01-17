@@ -1,0 +1,10 @@
+C:\Users\kulas\Desktop\WinFormTez\WinFormTez\bin\Debug\WinFormTez.exe.config
+C:\Users\kulas\Desktop\WinFormTez\WinFormTez\bin\Debug\WinFormTez.exe
+C:\Users\kulas\Desktop\WinFormTez\WinFormTez\bin\Debug\WinFormTez.pdb
+C:\Users\kulas\Desktop\WinFormTez\WinFormTez\obj\Debug\WinFormTez.csprojAssemblyReference.cache
+C:\Users\kulas\Desktop\WinFormTez\WinFormTez\obj\Debug\WinFormTez.Form1.resources
+C:\Users\kulas\Desktop\WinFormTez\WinFormTez\obj\Debug\WinFormTez.Properties.Resources.resources
+C:\Users\kulas\Desktop\WinFormTez\WinFormTez\obj\Debug\WinFormTez.csproj.GenerateResource.cache
+C:\Users\kulas\Desktop\WinFormTez\WinFormTez\obj\Debug\WinFormTez.csproj.CoreCompileInputs.cache
+C:\Users\kulas\Desktop\WinFormTez\WinFormTez\obj\Debug\WinFormTez.exe
+C:\Users\kulas\Desktop\WinFormTez\WinFormTez\obj\Debug\WinFormTez.pdb
